@@ -1,0 +1,67 @@
+nav{
+  padding: 0.1%;
+  background-color: ivory;
+}
+
+li a{
+  color: black;
+  text-decoration: none;
+}
+
+body{
+  background-color:antiquewhite;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 10px;
+}
+
+h1{
+  font-size: xx-large;
+  color: blueviolet;
+  font-weight: bold;
+  /* padding: 10px, 0, 10px, 0; */
+}
+
+h2{
+  color: blueviolet;
+  font-size: 110%;
+  font-weight: bold;
+}
+
+p{
+  padding: 10px
+
+}
+
+img {
+  border: 1px rgb(238, 214, 0) dashed;
+  box-shadow: 5 px black;
+}
+
+dt{
+  color: rgb(45, 15, 73);
+  font-weight: bold;
+}
+
+li{
+  display: inline;
+  padding: 5%;
+}
+
+footer{
+  color: grey;
+}
+
+.headShots {
+  padding: 5px;
+  border: 1px burlywood dashed;
+  box-shadow: 1 px black;
+}
+
+.active{
+  padding: 4px;
+  background-color: rgb(182, 225, 252);
+  border: 4px darkturquoise groove;
+  text-decoration: underline dotted;
+  color: rgb(26, 26, 255);
+  font-weight: bold;
+}
