@@ -65,3 +65,9 @@ footer{
   color: rgb(26, 26, 255);
   font-weight: bold;
 }
+
+img:hover{
+  box-shadow: 0 0 0 5px #000000;
+  filter: drop-shadow(5px 5px 5px purple);
+  transition: .5s ease;
+  }
